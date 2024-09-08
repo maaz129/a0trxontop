@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["A0TRX Bot","Made by MaazDADYLover" , "A0TRX On Top"];
 
 
 let currentIndex = 0;
