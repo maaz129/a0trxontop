@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🐼 A0TRX BOT","✨ Made by MaazDADYLover" , "🔥 A0TRX ON TOP"];
+const statusMessages = ["🐼 A0TRX BOT","✨ MADE BY MaazDADYLover" , "🔥 A0TRX ON TOP" , "Official A0TRX Bot 😍"];
 
 
 let currentIndex = 0;
